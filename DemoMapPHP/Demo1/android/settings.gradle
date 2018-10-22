@@ -1,4 +1,4 @@
-rootProject.name = 'FindNearPlace'
+rootProject.name = 'Demo1'
 
 include ':app'
 

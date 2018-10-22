@@ -1,4 +1,4 @@
-package com.findnearplace;
+package com.demo1;
 
 import android.app.Application;
 
